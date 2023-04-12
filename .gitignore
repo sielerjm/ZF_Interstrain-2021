@@ -4,6 +4,7 @@
 
 # Ignore these directories
 *Archive
+*Raw
 *FastQs
 
 # Session Data files

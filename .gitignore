@@ -1,12 +1,10 @@
-# Manuscript
-/Manuscript/
-
-# FastQ Files
-/Data/Raw/FastQs/
-
 # History files
 .Rhistory
 .Rapp.history
+
+# Ignore these directories
+*Archive
+*FastQs
 
 # Session Data files
 .RData

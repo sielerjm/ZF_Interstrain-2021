@@ -59,7 +59,7 @@ output.path <- check_proj_struct(proj.path,  # Project path
 # load_env(objects.path)
 
 analysis.ID <- paste0(
-  "ZF-DietStudy_",  # Data subsetted? If so, how? "<name>_"
+  "ZF-Interstrain_",  # Data subsetted? If so, how? "<name>_"
   Sys.Date()  # Date of analysis
 )
 

@@ -1,1 +1,1 @@
-This is a template for maintaining project structure consistency across repos using R as the principle language.
+Project repository for the zebrafish interstrain 2021 study
